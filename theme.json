@@ -136,5 +136,19 @@
             "fontFamily": "var(--wp--preset--font-family--mvh-system-fonts)",
             "lineHeight": "1.7"
         }
-    }
+    },
+
+    "templateParts": [
+        {
+            "name": "header",
+            "area": "header",
+            "title": "Header"
+        },
+
+        {
+            "name": "footer",
+            "area": "footer",
+            "title": "Footer"
+        }
+    ]
 }
