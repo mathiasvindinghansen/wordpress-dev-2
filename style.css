@@ -8,7 +8,7 @@ body {
     width: 90%;
 }
 
-.mvh-post-object {
+.mvh-post-wrapper {
     border: 1px solid black;
     padding: 1em;
 }
