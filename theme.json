@@ -1,8 +1,4 @@
 {
     "version": 2,
-    "settings": {
-        "color": {
-            "link": false
-        }
-    }
+    "settings": {}
 }
