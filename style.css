@@ -2,3 +2,8 @@
 * Theme Name: WordPress Dev 2
 * Author: Mathias V. Hansen
 */
+
+body {
+    margin: auto;
+    width: 90%;
+}
