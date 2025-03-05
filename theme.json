@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
-    
+
     "settings": {
         "dimensions": {
             "minHeight": true
@@ -121,6 +121,20 @@
         "color": {
             "background": "var(--wp-reset--color--mvh-base)",
             "text": "var(--wp--preset--color--mvh-contrast)"
+        },
+
+        "elements": {
+            "link": {
+                "color": {
+                    "text": "var(--wp--preset--color--mvh-accent-2)"
+                }
+            }
+        },
+
+        "typography": {
+            "fontSize": "var(--wp--preset--font-size--mvh-medium)",
+            "fontFamily": "var(--wp--preset--font-family--mvh-system-fonts)",
+            "lineHeight": "1.7"
         }
     }
 }
