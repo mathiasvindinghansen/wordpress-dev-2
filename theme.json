@@ -119,7 +119,7 @@
     
     "styles": {
         "color": {
-            "background": "var(--wp-reset--color--mvh-base)",
+            "background": "var(--wp--preset--color--mvh-base)",
             "text": "var(--wp--preset--color--mvh-contrast)"
         },
 
